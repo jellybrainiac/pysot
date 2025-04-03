@@ -11,8 +11,6 @@ from pysot.models.model_builder import ModelBuilder
 from pysot.tracker.tracker_builder import build_tracker
 from pysot.utils.bbox import get_axis_aligned_bbox
 from pysot.utils.model_load import load_pretrain
-from toolkit.datasets import DatasetFactory
-from toolkit.utils.region import vot_float2str, vot_overlap
 
 from . import vot
 from .vot import Point, Polygon, Rectangle

@@ -1,6 +1,4 @@
 import json
-from os import listdir
-from os.path import join
 
 import numpy as np
 

@@ -10,8 +10,7 @@
 """
 
 import collections
-import copy
-import sys
+
 
 try:
     import trax

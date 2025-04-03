@@ -38,7 +38,3 @@ python setup.py build_ext --inplace
 ```
 
 
-## Try with scripts
-```
-bash install.sh /path/to/your/conda pysot
-```
